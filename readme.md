@@ -29,7 +29,7 @@ Intreseted in Graphic Design and animations.
 - 👯 I’m looking to collaborate on Web Projects (Laravel Projects & React).
 - 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-shaheer-7711121a2/)
-- 📧 You can also mail me: [Gmail](emshaheerdev@gmail.com)
+- 📧 You can also mail me: emshaheerdev@gmail.com
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-000?logo=java)
